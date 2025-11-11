@@ -1,2 +1,2 @@
-# project-1st
+# E-commerce Sales Analysis 
 this is my first project in git repository.
